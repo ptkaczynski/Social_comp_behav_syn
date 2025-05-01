@@ -5291,5 +5291,5 @@ effective_sample(red_mod3, effects = "all")
 
 # 31 Save ####
 
-save.image("C:/Users/Megaport/OneDrive/Project_data/social_comp/analysis/results.Rdata")
+save.image("results.Rdata")
 
